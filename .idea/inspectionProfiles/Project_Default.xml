@@ -1,0 +1,90 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="absl-py" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="altair" />
+          <option value="attrs" />
+          <option value="blinker" />
+          <option value="cachetools" />
+          <option value="captum" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="filelock" />
+          <option value="fonttools" />
+          <option value="frozenlist" />
+          <option value="fsspec" />
+          <option value="gitdb" />
+          <option value="GitPython" />
+          <option value="grpcio" />
+          <option value="holidays" />
+          <option value="idna" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="kaleido" />
+          <option value="kiwisolver" />
+          <option value="lightning-utilities" />
+          <option value="Markdown" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="mizani" />
+          <option value="mpmath" />
+          <option value="multidict" />
+          <option value="narwhals" />
+          <option value="networkx" />
+          <option value="neuralprophet" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="patsy" />
+          <option value="pillow" />
+          <option value="plotly" />
+          <option value="plotnine" />
+          <option value="propcache" />
+          <option value="protobuf" />
+          <option value="pyarrow" />
+          <option value="pydeck" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="pytorch-lightning" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="rpds-py" />
+          <option value="scipy" />
+          <option value="six" />
+          <option value="smmap" />
+          <option value="statsmodels" />
+          <option value="streamlit" />
+          <option value="sympy" />
+          <option value="tenacity" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="toml" />
+          <option value="torch" />
+          <option value="torchmetrics" />
+          <option value="tornado" />
+          <option value="tqdm" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="watchdog" />
+          <option value="Werkzeug" />
+          <option value="yarl" />
+          <option value="ipython" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
