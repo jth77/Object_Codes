@@ -8,8 +8,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 st.set_page_config(page_title="Object Code Finder", layout="wide")
 
 # --- Paths ---
-file_path = Path(r"C:\Users\jtherman\OneDrive - University of Arizona\Projects\Object_Codes\Object_Codes.xlsx")
-logo_path = Path(r"C:\Users\jtherman\OneDrive - University of Arizona\Projects\Object_Codes\FSSLogo.png")
+file_path = Path("Object_Codes.xlsx")
+logo_path = Path("FSSLogo.png")
 
 # --- Header with logo ---
 col1, col2 = st.columns([1, 10])
