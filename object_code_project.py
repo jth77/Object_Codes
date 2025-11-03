@@ -18,9 +18,9 @@ embeddings_path = Path("embeddings.npy")
 col1, col2 = st.columns([1, 10])
 with col1:
     if logo_path.exists():
-        st.image(str(logo_path), width=250)
+        st.image(str(logo_path), width=275)
 with col2:
-    st.markdown("<h1 style='padding-top: 15px;'>🔍 Object Code Finder</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='padding-top: 0px;'>🔍 Object Code Finder</h1>", unsafe_allow_html=True)
 
 # --- Load Excel file ---
 if not file_path.exists():
